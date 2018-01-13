@@ -1,0 +1,9 @@
+c:\users\jason\source\repos\RESTClient\RESTClient\bin\Debug\netstandard2.0\RESTClient.deps.json
+c:\users\jason\source\repos\RESTClient\RESTClient\bin\Debug\netstandard2.0\RESTClient.dll
+c:\users\jason\source\repos\RESTClient\RESTClient\obj\Debug\netstandard2.0\RESTClient.csprojResolveAssemblyReference.cache
+c:\users\jason\source\repos\RESTClient\RESTClient\obj\Debug\netstandard2.0\RESTClient.csproj.CoreCompileInputs.cache
+c:\users\jason\source\repos\RESTClient\RESTClient\obj\Debug\netstandard2.0\RESTClient.AssemblyInfoInputs.cache
+c:\users\jason\source\repos\RESTClient\RESTClient\obj\Debug\netstandard2.0\RESTClient.AssemblyInfo.cs
+c:\users\jason\source\repos\RESTClient\RESTClient\bin\Debug\netstandard2.0\RESTClient.pdb
+c:\users\jason\source\repos\RESTClient\RESTClient\obj\Debug\netstandard2.0\RESTClient.dll
+c:\users\jason\source\repos\RESTClient\RESTClient\obj\Debug\netstandard2.0\RESTClient.pdb
