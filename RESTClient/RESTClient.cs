@@ -10,7 +10,7 @@ using System.Collections.Generic;
 
 namespace RESTClient
 {
-    internal class FormData
+    class FormData
     {
         public String data { get; set; }
     }
@@ -23,7 +23,7 @@ namespace RESTClient
 
     }
 
-    internal class RESTClient
+    public class RESTClientBase
     {
         public string ResourceURI { get; set; }
 
@@ -155,7 +155,7 @@ namespace RESTClient
             return bytes;
         }
 
-        public static byte[] SerializeFormData<TRequest>(FormData data, HttpWebRequest webRequest)
+        private static byte[] SerializeFormData<TRequest>(FormData data, HttpWebRequest webRequest)
         {
             webRequest.ContentType = "application/x-www-form-urlencoded";
             return Encoding.UTF8.GetBytes(data.data);
